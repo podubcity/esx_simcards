@@ -1,1 +1,1 @@
-INSERT INTO `essentialmode`.`items` (`name`, `label`, `limit`) VALUES ('sim_card', 'Sim Card', '10');
+INSERT INTO `es_extended`.`items` (`name`, `label`, `weight`) VALUES ('sim_card', 'Sim Card', '10');
